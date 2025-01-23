@@ -1,0 +1,221 @@
+2025-01-22 15:18:02,906 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 15:18:03,220 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 15:18:11,997 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-22 15:18:12,408 - aiogram.event - INFO - Update id=523673556 is handled. Duration 411 ms by bot id=7850541114
+2025-01-22 15:18:13,921 - aiogram.event - INFO - Update id=523673557 is handled. Duration 575 ms by bot id=7850541114
+2025-01-22 15:18:31,358 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 15:18:31,473 - aiogram.event - INFO - Update id=523673558 is handled. Duration 117 ms by bot id=7850541114
+2025-01-22 15:18:32,960 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-22 15:18:33,121 - aiogram.event - INFO - Update id=523673559 is handled. Duration 162 ms by bot id=7850541114
+2025-01-22 15:18:36,015 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-22 15:18:36,207 - aiogram.event - INFO - Update id=523673560 is handled. Duration 193 ms by bot id=7850541114
+2025-01-22 15:18:38,120 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов для анализаторов.
+2025-01-22 15:18:38,698 - aiogram.event - INFO - Update id=523673561 is handled. Duration 579 ms by bot id=7850541114
+2025-01-22 15:18:48,293 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 15:18:48,429 - aiogram.event - INFO - Update id=523673562 is handled. Duration 137 ms by bot id=7850541114
+2025-01-22 15:18:51,235 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 15:18:51,687 - aiogram.event - INFO - Update id=523673563 is handled. Duration 453 ms by bot id=7850541114
+2025-01-22 15:19:48,508 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 15:19:48,771 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 15:19:48,772 - root - INFO - Бот остановлен вручную.
+2025-01-22 15:19:56,714 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 15:19:57,016 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 15:20:11,168 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-22 15:20:11,506 - aiogram.event - INFO - Update id=523673564 is handled. Duration 338 ms by bot id=7850541114
+2025-01-22 15:20:13,358 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-22 15:20:13,486 - aiogram.event - INFO - Update id=523673565 is handled. Duration 128 ms by bot id=7850541114
+2025-01-22 15:20:14,700 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-22 15:20:14,869 - aiogram.event - INFO - Update id=523673566 is handled. Duration 170 ms by bot id=7850541114
+2025-01-22 15:20:16,634 - aiogram.event - INFO - Update id=523673567 is handled. Duration 459 ms by bot id=7850541114
+2025-01-22 15:20:17,879 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 15:20:17,994 - aiogram.event - INFO - Update id=523673568 is handled. Duration 116 ms by bot id=7850541114
+2025-01-22 15:20:19,320 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-22 15:20:19,448 - aiogram.event - INFO - Update id=523673569 is handled. Duration 129 ms by bot id=7850541114
+2025-01-22 15:20:20,196 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов для анализаторов.
+2025-01-22 15:20:20,742 - aiogram.event - INFO - Update id=523673570 is handled. Duration 547 ms by bot id=7850541114
+2025-01-22 15:20:21,457 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 15:20:21,572 - aiogram.event - INFO - Update id=523673571 is handled. Duration 116 ms by bot id=7850541114
+2025-01-22 15:20:22,453 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 15:20:22,811 - aiogram.event - INFO - Update id=523673572 is handled. Duration 359 ms by bot id=7850541114
+2025-01-22 15:21:32,618 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 15:21:32,881 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 15:21:32,884 - root - INFO - Бот остановлен вручную.
+2025-01-22 15:36:07,503 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 15:36:07,851 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 15:36:49,076 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-22 15:36:49,385 - aiogram.event - INFO - Update id=523673573 is handled. Duration 309 ms by bot id=7850541114
+2025-01-22 15:36:51,300 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 15:36:51,548 - root - ERROR - Ошибка при запросе файла ликвидации: Telegram server says - Bad Request: invalid file HTTP URL specified: Wrong port number specified in the URL
+2025-01-22 15:36:51,661 - aiogram.event - INFO - Update id=523673574 is handled. Duration 362 ms by bot id=7850541114
+2025-01-22 15:37:25,343 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-22 15:37:25,457 - aiogram.event - INFO - Update id=523673575 is handled. Duration 115 ms by bot id=7850541114
+2025-01-22 15:37:27,345 - aiogram.event - INFO - Update id=523673576 is handled. Duration 550 ms by bot id=7850541114
+2025-01-22 15:37:28,839 - aiogram.event - INFO - Update id=523673577 is handled. Duration 467 ms by bot id=7850541114
+2025-01-22 15:37:30,679 - aiogram.event - INFO - Update id=523673578 is handled. Duration 858 ms by bot id=7850541114
+2025-01-22 15:37:31,220 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 15:37:31,333 - aiogram.event - INFO - Update id=523673579 is handled. Duration 114 ms by bot id=7850541114
+2025-01-22 15:37:32,619 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-22 15:37:32,744 - aiogram.event - INFO - Update id=523673580 is handled. Duration 125 ms by bot id=7850541114
+2025-01-22 15:37:34,319 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-22 15:37:34,431 - aiogram.event - INFO - Update id=523673581 is handled. Duration 113 ms by bot id=7850541114
+2025-01-22 15:37:36,746 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов для анализаторов.
+2025-01-22 15:37:37,118 - aiogram.event - INFO - Update id=523673582 is handled. Duration 372 ms by bot id=7850541114
+2025-01-22 15:37:38,570 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 15:37:38,685 - aiogram.event - INFO - Update id=523673583 is handled. Duration 117 ms by bot id=7850541114
+2025-01-22 15:44:41,267 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 15:44:41,525 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 15:44:41,527 - root - INFO - Бот остановлен вручную.
+2025-01-22 16:22:17,804 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 16:22:18,100 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:22:26,930 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-22 16:22:27,238 - aiogram.event - INFO - Update id=523673584 is handled. Duration 308 ms by bot id=7850541114
+2025-01-22 16:22:34,848 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-22 16:22:34,945 - aiogram.event - INFO - Update id=523673585 is handled. Duration 98 ms by bot id=7850541114
+2025-01-22 16:22:36,943 - aiogram.event - INFO - Update id=523673586 is handled. Duration 510 ms by bot id=7850541114
+2025-01-22 16:22:38,558 - aiogram.event - INFO - Update id=523673587 is handled. Duration 581 ms by bot id=7850541114
+2025-01-22 16:22:40,029 - aiogram.event - INFO - Update id=523673588 is handled. Duration 505 ms by bot id=7850541114
+2025-01-22 16:22:40,826 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 16:22:40,934 - aiogram.event - INFO - Update id=523673589 is handled. Duration 110 ms by bot id=7850541114
+2025-01-22 16:22:42,052 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-22 16:22:42,179 - aiogram.event - INFO - Update id=523673590 is handled. Duration 128 ms by bot id=7850541114
+2025-01-22 16:22:43,669 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-22 16:22:43,957 - aiogram.event - INFO - Update id=523673591 is handled. Duration 288 ms by bot id=7850541114
+2025-01-22 16:22:46,433 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов для анализаторов.
+2025-01-22 16:22:46,753 - aiogram.event - INFO - Update id=523673592 is handled. Duration 321 ms by bot id=7850541114
+2025-01-22 16:22:48,081 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-22 16:22:48,296 - aiogram.event - INFO - Update id=523673593 is handled. Duration 217 ms by bot id=7850541114
+2025-01-22 16:22:49,747 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 16:22:50,006 - root - ERROR - Ошибка при запросе файла ликвидации: Telegram server says - Bad Request: invalid file HTTP URL specified: Wrong port number specified in the URL
+2025-01-22 16:22:50,180 - aiogram.event - INFO - Update id=523673594 is handled. Duration 434 ms by bot id=7850541114
+2025-01-22 16:28:10,152 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 16:28:10,412 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:28:10,413 - root - INFO - Бот остановлен вручную.
+2025-01-22 16:29:25,757 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 16:29:26,058 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:29:37,080 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-22 16:29:37,437 - aiogram.event - INFO - Update id=523673595 is handled. Duration 358 ms by bot id=7850541114
+2025-01-22 16:29:39,764 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 16:29:39,775 - root - INFO - Ответ API: [{'id': 1, 'name': 'Распродажа неликвидов со склада в Челябинске', 'file': 'http://127.0.0.1:8000/media/liquidation_files/%D0%92%D0%B8%D1%81%D1%8F%D0%BA%D0%B8_%D0%B8_%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BD%D0%BE_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_6_%D0%BC%D0%B5%D1%81_%D0%BD%D0%B0_14_12_23.xls', 'uploaded_at': '2025-01-22T08:30:19.527650Z'}]
+2025-01-22 16:29:39,959 - root - ERROR - Ошибка при запросе файла ликвидации: Telegram server says - Bad Request: invalid file HTTP URL specified: Wrong port number specified in the URL
+2025-01-22 16:29:40,066 - aiogram.event - INFO - Update id=523673596 is handled. Duration 303 ms by bot id=7850541114
+2025-01-22 16:33:29,687 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 16:33:29,950 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:33:29,952 - root - INFO - Бот остановлен вручную.
+2025-01-22 16:35:59,684 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 16:35:59,994 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:36:08,725 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-22 16:36:09,075 - aiogram.event - INFO - Update id=523673597 is handled. Duration 350 ms by bot id=7850541114
+2025-01-22 16:36:11,075 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 16:36:11,093 - root - INFO - Ответ API: [{'id': 1, 'name': 'Распродажа неликвидов со склада в Челябинске', 'file': 'http://127.0.0.1:8000/media/liquidation_files/%D0%92%D0%B8%D1%81%D1%8F%D0%BA%D0%B8_%D0%B8_%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BD%D0%BE_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_6_%D0%BC%D0%B5%D1%81_%D0%BD%D0%B0_14_12_23.xls', 'uploaded_at': '2025-01-22T08:30:19.527650Z'}]
+2025-01-22 16:36:11,348 - root - ERROR - Ошибка при запросе файла ликвидации: Telegram server says - Bad Request: wrong type of the web page content
+2025-01-22 16:36:11,449 - aiogram.event - INFO - Update id=523673598 is handled. Duration 376 ms by bot id=7850541114
+2025-01-22 16:39:00,779 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 16:39:01,036 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:39:01,038 - root - INFO - Бот остановлен вручную.
+2025-01-22 16:48:54,164 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 16:48:54,463 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:48:57,927 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-22 16:48:58,368 - aiogram.event - INFO - Update id=523673599 is handled. Duration 441 ms by bot id=7850541114
+2025-01-22 16:49:00,088 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 16:49:01,024 - aiogram.event - INFO - Update id=523673600 is handled. Duration 938 ms by bot id=7850541114
+2025-01-22 16:50:05,382 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 16:50:05,641 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:50:05,644 - root - INFO - Бот остановлен вручную.
+2025-01-22 16:51:09,782 - aiogram.dispatcher - INFO - Start polling
+2025-01-22 16:51:10,051 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:51:17,241 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-22 16:51:17,636 - aiogram.event - INFO - Update id=523673601 is handled. Duration 395 ms by bot id=7850541114
+2025-01-22 16:51:19,155 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-22 16:51:19,155 - root - INFO - Путь к файлу: C:\Users\bdv\PycharmProjects\pythonProject41\data\liquidation_file.xls
+2025-01-22 16:51:19,652 - aiogram.event - INFO - Update id=523673602 is handled. Duration 502 ms by bot id=7850541114
+2025-01-22 16:54:43,449 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-22 16:54:43,717 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-22 16:54:43,723 - root - INFO - Бот остановлен вручную.
+2025-01-23 10:16:52,420 - aiogram.dispatcher - INFO - Start polling
+2025-01-23 10:16:52,762 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:17:05,901 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-23 10:17:06,299 - aiogram.event - INFO - Update id=523673603 is handled. Duration 398 ms by bot id=7850541114
+2025-01-23 10:17:07,673 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-23 10:17:07,779 - aiogram.event - INFO - Update id=523673604 is handled. Duration 106 ms by bot id=7850541114
+2025-01-23 10:17:09,665 - aiogram.event - INFO - Update id=523673605 is handled. Duration 599 ms by bot id=7850541114
+2025-01-23 10:17:11,127 - aiogram.event - INFO - Update id=523673606 is handled. Duration 613 ms by bot id=7850541114
+2025-01-23 10:17:12,602 - aiogram.event - INFO - Update id=523673607 is handled. Duration 648 ms by bot id=7850541114
+2025-01-23 10:17:13,259 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:17:13,461 - aiogram.event - INFO - Update id=523673608 is handled. Duration 203 ms by bot id=7850541114
+2025-01-23 10:17:15,167 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-23 10:17:15,306 - aiogram.event - INFO - Update id=523673609 is handled. Duration 140 ms by bot id=7850541114
+2025-01-23 10:17:22,621 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-23 10:17:22,789 - aiogram.event - INFO - Update id=523673610 is handled. Duration 168 ms by bot id=7850541114
+2025-01-23 10:17:25,345 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов для анализаторов.
+2025-01-23 10:17:25,710 - aiogram.event - INFO - Update id=523673611 is handled. Duration 366 ms by bot id=7850541114
+2025-01-23 10:17:27,172 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:17:27,315 - aiogram.event - INFO - Update id=523673612 is handled. Duration 144 ms by bot id=7850541114
+2025-01-23 10:17:28,873 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-23 10:17:28,873 - root - INFO - Путь к файлу: C:\Users\bdv\PycharmProjects\pythonProject41\data\liquidation_file.xls
+2025-01-23 10:17:29,126 - aiogram.event - INFO - Update id=523673613 is handled. Duration 254 ms by bot id=7850541114
+2025-01-23 10:17:36,070 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-23 10:17:36,281 - aiogram.event - INFO - Update id=523673614 is handled. Duration 212 ms by bot id=7850541114
+2025-01-23 10:17:49,121 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-23 10:17:49,382 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:17:49,383 - root - INFO - Бот остановлен вручную.
+2025-01-23 10:24:23,694 - aiogram.dispatcher - INFO - Start polling
+2025-01-23 10:24:24,015 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:24:24,130 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:24:24,131 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:24:24,132 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:24:24,133 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:24:24,461 - aiogram.event - INFO - Update id=523673616 is handled. Duration 336 ms by bot id=7850541114
+2025-01-23 10:24:24,462 - aiogram.event - INFO - Update id=523673615 is handled. Duration 337 ms by bot id=7850541114
+2025-01-23 10:24:24,463 - aiogram.event - INFO - Update id=523673618 is handled. Duration 336 ms by bot id=7850541114
+2025-01-23 10:24:24,492 - aiogram.event - INFO - Update id=523673617 is handled. Duration 366 ms by bot id=7850541114
+2025-01-23 10:30:07,321 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-23 10:30:07,585 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:30:07,586 - root - INFO - Бот остановлен вручную.
+2025-01-23 10:33:44,724 - aiogram.dispatcher - INFO - Start polling
+2025-01-23 10:33:45,065 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:33:52,036 - root - INFO - Пользователь 312948899 (BazylevDV) запустил бота.
+2025-01-23 10:33:52,448 - aiogram.event - INFO - Update id=523673619 is handled. Duration 412 ms by bot id=7850541114
+2025-01-23 10:33:54,363 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-23 10:33:54,488 - aiogram.event - INFO - Update id=523673620 is handled. Duration 125 ms by bot id=7850541114
+2025-01-23 10:33:59,109 - aiogram.event - INFO - Update id=523673621 is handled. Duration 552 ms by bot id=7850541114
+2025-01-23 10:34:01,469 - aiogram.event - INFO - Update id=523673622 is handled. Duration 455 ms by bot id=7850541114
+2025-01-23 10:34:03,007 - aiogram.event - INFO - Update id=523673623 is handled. Duration 596 ms by bot id=7850541114
+2025-01-23 10:34:03,749 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:34:03,868 - aiogram.event - INFO - Update id=523673624 is handled. Duration 120 ms by bot id=7850541114
+2025-01-23 10:34:05,306 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-23 10:34:05,520 - aiogram.event - INFO - Update id=523673625 is handled. Duration 214 ms by bot id=7850541114
+2025-01-23 10:34:06,987 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-23 10:34:07,541 - aiogram.event - INFO - Update id=523673626 is handled. Duration 555 ms by bot id=7850541114
+2025-01-23 10:34:13,030 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-23 10:34:13,030 - root - INFO - Путь к файлу: C:\Users\bdv\PycharmProjects\pythonProject41\data\liquidation_file.xls
+2025-01-23 10:34:13,458 - aiogram.event - INFO - Update id=523673627 is handled. Duration 430 ms by bot id=7850541114
+2025-01-23 10:34:23,419 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-23 10:34:23,535 - aiogram.event - INFO - Update id=523673628 is handled. Duration 117 ms by bot id=7850541114
+2025-01-23 10:34:25,026 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 10:34:25,202 - aiogram.event - INFO - Update id=523673629 is handled. Duration 178 ms by bot id=7850541114
+2025-01-23 10:35:05,644 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-23 10:35:05,911 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:35:05,912 - root - INFO - Бот остановлен вручную.
+2025-01-23 10:40:23,680 - aiogram.dispatcher - INFO - Start polling
+2025-01-23 10:40:23,992 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:40:27,308 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-23 10:40:27,560 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 10:40:27,561 - root - INFO - Бот остановлен вручную.
+2025-01-23 11:18:33,290 - aiogram.dispatcher - INFO - Start polling
+2025-01-23 11:18:33,719 - aiogram.dispatcher - INFO - Run polling for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 11:18:47,176 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню тестов.
+2025-01-23 11:18:48,376 - aiogram.event - INFO - Update id=523673630 is handled. Duration 1201 ms by bot id=7850541114
+2025-01-23 11:18:50,361 - root - INFO - Пользователь 312948899 (BazylevDV) запросил меню оборудования.
+2025-01-23 11:18:50,522 - aiogram.event - INFO - Update id=523673631 is handled. Duration 161 ms by bot id=7850541114
+2025-01-23 11:18:53,181 - aiogram.event - INFO - Update id=523673632 is handled. Duration 564 ms by bot id=7850541114
+2025-01-23 11:18:56,739 - aiogram.event - INFO - Update id=523673633 is handled. Duration 724 ms by bot id=7850541114
+2025-01-23 11:18:57,910 - root - INFO - Пользователь 312948899 (BazylevDV) вернулся в главное меню.
+2025-01-23 11:18:58,023 - aiogram.event - INFO - Update id=523673634 is handled. Duration 114 ms by bot id=7850541114
+2025-01-23 11:19:02,266 - root - INFO - Пользователь 312948899 (BazylevDV) запросил файл ликвидации.
+2025-01-23 11:19:02,267 - root - INFO - Путь к файлу: C:\Users\bdv\PycharmProjects\pythonProject41\data\liquidation_file.xls
+2025-01-23 11:19:02,783 - aiogram.event - INFO - Update id=523673635 is handled. Duration 517 ms by bot id=7850541114
+2025-01-23 11:19:26,852 - root - INFO - Пользователь 312948899 (BazylevDV) запросил информацию 'О нас'.
+2025-01-23 11:19:27,085 - aiogram.event - INFO - Update id=523673636 is handled. Duration 233 ms by bot id=7850541114
+2025-01-23 11:21:13,507 - aiogram.dispatcher - INFO - Polling stopped
+2025-01-23 11:21:13,762 - aiogram.dispatcher - INFO - Polling stopped for bot @LabDealsBot id=7850541114 - 'ЛабторгБот'
+2025-01-23 11:21:13,765 - root - INFO - Бот остановлен вручную.
